@@ -1,0 +1,3 @@
+Please replace the favicon.ico file with a proper icon for Sudan Advisors.
+The current favicon.svg is a simple placeholder with an "S" on a navy background.
+For best compatibility, create a multi-resolution ICO file with sizes: 16x16, 32x32, 48x48.
